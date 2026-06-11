@@ -57,6 +57,16 @@ By the end of this project, stakeholders will have a clear understanding of sale
 7. Discount Impact Assessment
 8. Business Insights and Recommendations
 
+## Dashboard Preview
+
+![Sales by Region](visuals/sales_by_region.png)
+
+![Profit by Category](visuals/profit_by_category.png)
+
+![Discount vs Profit](visuals/discount_vs_profit.png)
+
+![Correlation Heatmap](visuals/correlation_heatmap.png)
+
 ## Key Findings
 
 * Total Sales: $2.30M
