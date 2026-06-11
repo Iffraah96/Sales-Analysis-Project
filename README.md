@@ -45,3 +45,51 @@ The main objectives of this analysis are:
 ## Expected Outcome
 
 By the end of this project, stakeholders will have a clear understanding of sales patterns, profitability drivers, and potential areas for business improvement, enabling more data-driven decision-making.
+
+## Project Workflow
+
+1. Data Loading and Inspection
+2. Exploratory Data Analysis (EDA)
+3. Data Quality Assessment
+4. Regional Sales Analysis
+5. Category and Profit Analysis
+6. Customer Segment Analysis
+7. Discount Impact Assessment
+8. Business Insights and Recommendations
+
+## Key Findings
+
+* Total Sales: $2.30M
+* Total Profit: $286K
+* West region generated the highest sales.
+* Technology was the most profitable product category.
+* Consumer customers generated the largest share of revenue.
+* Higher discounts were associated with lower profitability.
+
+## Business Recommendations
+
+* Increase investment in high-performing regions.
+* Expand Technology product offerings.
+* Strengthen engagement with Consumer customers.
+* Review discount policies to protect profit margins.
+
+## Project Structure
+
+Retail-Sales-Profit-Analysis/
+
+├── data/
+
+├── notebooks/
+
+├── visuals/
+
+├── README.md
+
+└── requirements.txt
+
+## Author
+
+Aspiring Data Scientist / AI Professional
+
+Built as part of a portfolio demonstrating skills in data analysis, visualization, and business intelligence using Python.
+
